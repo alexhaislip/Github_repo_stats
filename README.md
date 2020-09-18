@@ -26,8 +26,7 @@ An easy way to fetch all view and clone statistics from all repositories on Gith
 
 #### Installation
 
-"""python3 main.py --username testuser --password testpassword
-"""
+""" python3 main.py --username testuser --password testpassword """
 
 #### API Reference
 
