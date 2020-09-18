@@ -1,25 +1,12 @@
 # Github_repo_stats
 An easy way to fetch all view and clone statistics from all repositories on Github. 
 
-![Project Image]
-()
+<img width="589" alt="Screen Shot 2020-09-18 at 9 11 36 AM" src="https://user-images.githubusercontent.com/25471002/93609689-c5a94380-f991-11ea-8fe1-f99c56d15682.png">
 
-![Project Image]
-()
-
-![Project Image]
-()
+<img width="457" alt="Screen Shot 2020-09-18 at 9 12 46 AM" src="https://user-images.githubusercontent.com/25471002/93609730-d063d880-f991-11ea-9365-f056d18400ab.png">
 
 
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
-
-
-<img
-src=“Screen Shot 2020-09-18 at 9.12.57 AM”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img width="1303" alt="Screen Shot 2020-09-18 at 9 12 57 AM" src="https://user-images.githubusercontent.com/25471002/93609743-d3f75f80-f991-11ea-8192-3b2bc2d1c9a3.png">
 
 ---
 
