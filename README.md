@@ -5,6 +5,8 @@ An easy way to fetch all view and clone statistics from all repositories on Gith
 ![Project Image](https://gifyu.com/image/4cep)
 ![Project Image](https://gifyu.com/image/4ceS)
 
+https://gifyu.com/image/4ceS
+
 ---
 
 ### Table of Contents
