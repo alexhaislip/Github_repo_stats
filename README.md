@@ -1,11 +1,9 @@
 # Github_repo_stats
 An easy way to fetch all view and clone statistics from all repositories on Github. 
 
-![Project Image](https://gifyu.com/image/4ceH)
-![Project Image](https://gifyu.com/image/4cep)
-![Project Image](https://gifyu.com/image/4ceS)
-
-https://gifyu.com/image/4ceS
+![Project Image](https://ibb.co/w6nDh6N)
+![Project Image](https://ibb.co/JrKYxxf)
+![Project Image](https://ibb.co/42GDWr2)
 
 ---
 
