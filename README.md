@@ -35,14 +35,6 @@ An easy way to fetch all view and clone statistics from all repositories on Gith
 python3 main.py --username testuser --password testpassword
 ```
 
-#### API Reference
-
-```none
-```
-[Back To The Top](#read-me-template)
-
----
-
 ## References
 [Back To The Top](#Github_repo_stats)
 
